@@ -8,7 +8,7 @@ def IniciaGame():
     elif opcao == 2:
         Modo(2)
         return "Voce escolheu um campeonato!"
-def 
+
 def Modo (Escolha):
     if Escolha == 1:
         Partida()
